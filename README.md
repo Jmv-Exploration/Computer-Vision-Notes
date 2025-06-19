@@ -9,9 +9,9 @@ Welcome to this open-source notes, the idea is to introduce yourselft to compute
 
 | Section              | Contents                                             |
 |----------------------|------------------------------------------------------|
-| 00 Fundamentals       | Introduction to computer vision and image handling   |
-| 01 Classification     | Classifying objects in images                        |
-| 02 Segmentation       | Pixel-level labeling (instance, semantic & pantopic)           |
-| 03 Detection          | Object detection using CNNs and Transformers         |
-| 04 Tracking           | Multi-object tracking in video sequences             |
-| 05 Metrics_overview   | Overview of metrics across tasks                     |
+| 00 - Fundamentals       | Introduction to computer vision and image handling   |
+| 01 - Classification     | Classifying objects in images                        |
+| 02 - Segmentation       | Pixel-level labeling (instance, semantic & pantopic)           |
+| 03 - Detection          | Object detection using CNNs and Transformers         |
+| 04 - Tracking           | Multi-object tracking in video sequences             |
+| 05 - Metrics_overview   | Overview of metrics across tasks                     |
